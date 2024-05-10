@@ -1,4 +1,4 @@
-# Assignment 0 Instructions
+# Abigail Bales
 This is a template and instructions for creating your own Assignment0.
 
 _Please follow these instructions carefully, there are several ways to confuse yourself if you don't keep checking against these instructions as you go._
@@ -19,7 +19,7 @@ You will be using this template to create a _new_ repository in your github.com 
 If your github handle was `petecarapetyan` and you had a dark theme this is what your Assignment0 should look like now. Please notice that green `Code` button at bottom right.
 
 
-![Image description](/images/new.jpg)
+![Image description](/)
 
 - Now click that green code button and clone it with the `Open with Github Desktop`
 
@@ -62,7 +62,7 @@ If your github handle was `petecarapetyan` and your name was `John Smith` and yo
 
 At this time, we do not review Assignment0, it is for your personal education only, so do not hand it in to the Assignments App like you would with Assignments 1-15
 
-![Complete](/images/complete.jpg)
+![Complete](C:\Users\DrStein1221\Downloads\smilinface.jpg)
 
 ## Extra Credit
 
